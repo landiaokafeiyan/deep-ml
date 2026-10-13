@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:23:37.151Z",
+  "generated_at": "2026-10-13T17:28:45.222Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -267,6 +267,19 @@
       "last_pushed_at": "2026-10-13T17:23:36.533Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1531": {
+      "kind": "problem",
+      "id": "1531",
+      "title": "Encoder-Decoder Cross-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1531",
+      "path": "problems/1531-encoder-decoder-cross-attention",
+      "first_solved_at": "2026-10-13T17:28:44.679Z",
+      "last_pushed_at": "2026-10-13T17:28:44.679Z",
+      "language": "python",
+      "lines": 104
     }
   }
 }
